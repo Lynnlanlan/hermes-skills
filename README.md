@@ -27,7 +27,7 @@
 
 ```bash
 # 克隆
-git clone https://github.com/liuyilan/hermes-skills.git
+git clone https://github.com/Lynnlanlan/hermes-skills.git
 
 # 复制到 Hermes skills 目录
 cp -r hermes-skills/nobody ~/.hermes/skills/productivity/

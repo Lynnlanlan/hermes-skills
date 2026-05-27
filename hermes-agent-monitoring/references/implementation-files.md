@@ -1,6 +1,6 @@
 # Implementation Files Reference
 
-## Files Created (2026-05-27, user liuyilan)
+## Files Created (2026-05-27, user Lynnlanlan)
 
 ### Status helpers — `~/.hermes/traffic-light/status.py`
 Constants (thresholds, error types), atomic file write via tmp+rename, heartbeat helpers, `check_heartbeat_timeout()`, `check_hermes_alive()`.

@@ -45,7 +45,7 @@
 
 ## 完整代码
 
-所有代码内嵌在桌面文件 `/Users/liuyilan/Desktop/Hermes红绿灯安装指南.md` 中。该文件包含完整的 status.py、menubar.py、hermes_heartbeat.py、启动脚本和 plist 配置。
+所有代码内嵌在桌面文件 `~/Desktop/Hermes红绿灯安装指南.md` 中。该文件包含完整的 status.py、menubar.py、hermes_heartbeat.py、启动脚本和 plist 配置。
 
 ## 调试清单
 
